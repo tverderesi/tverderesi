@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a software engineer with a passion for creating and improving software using my creativity and deep involvement with the goals the software wants to achieve. My experience in web development includes working with diverse languages like JavaScript and Python, frameworks like ReactJS and Framer, and 3+ years of experience working with data. My focus is on full-stack development, and I am often involved in every aspect of development, from conceptual design to data structure, deployment, front-end, and back-end development.
 <!--
 **tverderesi/tverderesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
