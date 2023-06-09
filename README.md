@@ -25,4 +25,4 @@ I am a software engineer with a passion for creating and improving software usin
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tverderesi&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
