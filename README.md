@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas V.!</h1>
-<h3 align="center">Mid Software Engineer @ Ebanx</h3>
+<h3 align="center">Mid Software Engineer @ @Ebanx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tverderesi&label=Profile%20views&color=0e75b6&style=flat" alt="tverderesi" /> </p>
 
