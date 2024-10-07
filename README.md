@@ -9,7 +9,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tverderesi&show_icons=true&locale=en&layout=compact" alt="tverderesi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tverderesi&show_icons=true&locale=en" alt="tverderesi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tverderesi&" alt="tverderesi" /></p>
 
